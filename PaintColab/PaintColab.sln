@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintColabClient", "PaintColab\PaintColabClient.csproj", "{035DF1B1-FEA0-4BF5-972A-2917AED75E73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintColabSocketServer", "PaintColabSocketServer\PaintColabSocketServer.csproj", "{ADBBB481-B9D9-460E-87E8-6E53D5C83A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{035DF1B1-FEA0-4BF5-972A-2917AED75E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035DF1B1-FEA0-4BF5-972A-2917AED75E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035DF1B1-FEA0-4BF5-972A-2917AED75E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035DF1B1-FEA0-4BF5-972A-2917AED75E73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBBB481-B9D9-460E-87E8-6E53D5C83A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBBB481-B9D9-460E-87E8-6E53D5C83A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBBB481-B9D9-460E-87E8-6E53D5C83A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBBB481-B9D9-460E-87E8-6E53D5C83A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F02AA1D-AE9D-4566-B8A0-3F5E028501C3}
+	EndGlobalSection
+EndGlobal
